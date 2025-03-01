@@ -13,15 +13,13 @@ argv[0] = ./baltri
 argv[1] = Process Number
 
   *	1 : Baseline Counting
-	*	2 : Improved Counting
-  * 3 : vBase
-  * 4 : vImpr
-  * 5 : eBase
-  * 6 : eImpr
+  *	2 : Improved Counting
+  *	3 : vBase
+  *	4 : vImpr
+  *	5 : eBase
+  *	6 : eImpr
 
-argv[2] = Edge File
-
-	*	tsv formal (ID1	ID2 PositiveSignProbability)
+argv[2] = Edge File in tsv format (int \t int \t Positive Sign Probability)
 
 argv[3] = t value
 
